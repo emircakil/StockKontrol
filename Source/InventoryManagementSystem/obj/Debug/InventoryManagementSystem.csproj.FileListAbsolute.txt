@@ -1,0 +1,69 @@
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\hasan\OneDrive\Masaüstü\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
