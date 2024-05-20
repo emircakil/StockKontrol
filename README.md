@@ -1,1 +1,2 @@
 # StockKontrol
+Proje tanimii
