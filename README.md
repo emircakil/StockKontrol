@@ -1,2 +1,2 @@
 # StockKontrol
-Proje tanimii
+Modüller eklendi
