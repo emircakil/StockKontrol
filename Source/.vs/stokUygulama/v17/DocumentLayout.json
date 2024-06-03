@@ -1,50 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\",
+  "WorkspaceRootPath": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|c:\\users\\hasan\\onedrive\\masa\u00FCst\u00FC\\stokdeneme\\stokdeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF2FEE4A-F577-4A65-AB22-9149620A63D0}|UrunRepositoryTests\\UrunRepositoryTests.csproj|c:\\users\\aydin\\desktop\\stockkontrol\\source\\urunrepositorytests\\urunrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2FEE4A-F577-4A65-AB22-9149620A63D0}|UrunRepositoryTests\\UrunRepositoryTests.csproj|solutionrelative:urunrepositorytests\\urunrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|c:\\users\\aydin\\desktop\\stockkontrol\\source\\stokdeneme\\musterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\musterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\siparisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\siparisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\siparisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\imusterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\imusterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\imusterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\isiparisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\isiparisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\isiparisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\urunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\urunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\urunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\iurunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\iurunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\iurunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\musterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\musterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hasan\\AppData\\Local\\Temp\\2txmhryz..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
@@ -56,7 +60,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hasan\\AppData\\Local\\Temp\\tsbc34la..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokdeneme\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokdeneme\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA31A02-B6A3-402B-9026-89611FA353BB}|stokDeneme\\stokUygulama.csproj|solutionrelative:stokdeneme\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,19 +74,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrunRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\UrunRepositoryTests\\UrunRepositoryTests.cs",
+              "RelativeDocumentMoniker": "UrunRepositoryTests\\UrunRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\UrunRepositoryTests\\UrunRepositoryTests.cs",
+              "RelativeToolTip": "UrunRepositoryTests\\UrunRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:42:23.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Musteri.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Musteri.cs",
               "RelativeDocumentMoniker": "stokDeneme\\Musteri.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Musteri.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Musteri.cs",
               "RelativeToolTip": "stokDeneme\\Musteri.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UrunRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\UrunRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\UrunRepository.cs",
               "RelativeDocumentMoniker": "stokDeneme\\UrunRepository.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\UrunRepository.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\UrunRepository.cs",
               "RelativeToolTip": "stokDeneme\\UrunRepository.cs",
               "ViewState": "AQIAAF4AAAAAAAAAAAAAAEYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Siparis.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Siparis.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Siparis.cs",
               "RelativeDocumentMoniker": "stokDeneme\\Siparis.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Siparis.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Siparis.cs",
               "RelativeToolTip": "stokDeneme\\Siparis.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,11 +127,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ISiparisRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\ISiparisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\ISiparisRepository.cs",
               "RelativeDocumentMoniker": "stokDeneme\\ISiparisRepository.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\ISiparisRepository.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\ISiparisRepository.cs",
               "RelativeToolTip": "stokDeneme\\ISiparisRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,36 +139,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Form1.cs",
               "RelativeDocumentMoniker": "stokDeneme\\Form1.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Form1.cs",
               "RelativeToolTip": "stokDeneme\\Form1.cs",
               "ViewState": "AQIAAIMBAAAAAAAAAAAEwJUBAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T19:58:27.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Form1.cs",
-              "RelativeDocumentMoniker": "stokDeneme\\Form1.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "stokDeneme\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T13:08:16.387Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-05-31T19:58:27.28Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Form1.cs",
+              "RelativeDocumentMoniker": "stokDeneme\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Form1.cs [Design]",
+              "RelativeToolTip": "stokDeneme\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:08:16.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SiparisRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\SiparisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\SiparisRepository.cs",
               "RelativeDocumentMoniker": "stokDeneme\\SiparisRepository.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\SiparisRepository.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\SiparisRepository.cs",
               "RelativeToolTip": "stokDeneme\\SiparisRepository.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAiwDQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IMusteriRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\IMusteriRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\IMusteriRepository.cs",
               "RelativeDocumentMoniker": "stokDeneme\\IMusteriRepository.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\IMusteriRepository.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\IMusteriRepository.cs",
               "RelativeToolTip": "stokDeneme\\IMusteriRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +186,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IUrunRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\IUrunRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\IUrunRepository.cs",
               "RelativeDocumentMoniker": "stokDeneme\\IUrunRepository.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\IUrunRepository.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\IUrunRepository.cs",
               "RelativeToolTip": "stokDeneme\\IUrunRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,66 +198,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\App.config",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\App.config",
               "RelativeDocumentMoniker": "stokDeneme\\App.config",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\App.config",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\App.config",
               "RelativeToolTip": "stokDeneme\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-01T13:01:49.031Z",
+              "WhenOpened": "2024-06-01T13:01:49.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusteriRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\MusteriRepository.cs",
+              "RelativeDocumentMoniker": "stokDeneme\\MusteriRepository.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\MusteriRepository.cs",
+              "RelativeToolTip": "stokDeneme\\MusteriRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:45:09.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MusteriRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\MusteriRepository.cs",
-              "RelativeDocumentMoniker": "stokDeneme\\MusteriRepository.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\MusteriRepository.cs",
-              "RelativeToolTip": "stokDeneme\\MusteriRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T20:45:09.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SQLQuery5.sql ",
               "DocumentMoniker": "C:\\Users\\hasan\\AppData\\Local\\Temp\\2txmhryz..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\2txmhryz..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\hasan\\AppData\\Local\\Temp\\2txmhryz..sql",
               "ToolTip": "SQLQuery5.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-06-01T10:39:40.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SQLQuery4.sql ",
               "DocumentMoniker": "C:\\Users\\hasan\\AppData\\Local\\Temp\\cw0gtuwa..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\cw0gtuwa..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\hasan\\AppData\\Local\\Temp\\cw0gtuwa..sql",
               "ToolTip": "SQLQuery4.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-06-01T10:36:19.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SQLQuery3.sql ",
               "DocumentMoniker": "C:\\Users\\hasan\\AppData\\Local\\Temp\\tsbc34la..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\tsbc34la..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\hasan\\AppData\\Local\\Temp\\tsbc34la..sql",
               "ToolTip": "SQLQuery3.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-06-01T10:33:52.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Urun.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Urun.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Urun.cs",
               "RelativeDocumentMoniker": "stokDeneme\\Urun.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stokDeneme\\stokDeneme\\Urun.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StockKontrol\\Source\\stokDeneme\\Urun.cs",
               "RelativeToolTip": "stokDeneme\\Urun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,10 +265,10 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SQLQuery2.sql ",
               "DocumentMoniker": "C:\\Users\\hasan\\AppData\\Local\\Temp\\0u22djx5..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\0u22djx5..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\hasan\\AppData\\Local\\Temp\\0u22djx5..sql",
               "ToolTip": "SQLQuery2.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-06-01T09:11:16.59Z"
