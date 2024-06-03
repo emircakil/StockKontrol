@@ -1,0 +1,10 @@
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\bin\Debug\stokDeneme.exe.config
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\bin\Debug\stokDeneme.exe
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\bin\Debug\stokDeneme.pdb
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\obj\Debug\stokDeneme.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\obj\Debug\stokDeneme.Form1.resources
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\obj\Debug\stokDeneme.Properties.Resources.resources
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\obj\Debug\stokDeneme.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\obj\Debug\stokDeneme.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\obj\Debug\stokDeneme.exe
+C:\Users\hasan\source\repos\stokDeneme\stokDeneme\obj\Debug\stokDeneme.pdb
