@@ -23,6 +23,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build ./Source/stokUygulama.sln
+      run: dotnet build ./Source
     - name: Test
-      run: dotnet test ./Source/UrunRepositoryTests/UrunRepositoryTests.csproj
+      run: dotnet test ./Source
