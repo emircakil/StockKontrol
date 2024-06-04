@@ -23,6 +23,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build ./Source
+      run: dotnet build working-directory:./Source
     - name: Test
-      run: dotnet test ./Source
+      run: dotnet test working-directory:./Source
