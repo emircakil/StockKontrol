@@ -19,9 +19,9 @@ jobs:
       - name: Install dependencies
         run: dotnet restore
       - name: Build
-        run: dotnet build --configuration Release
+        run: dotnet build ./Source/stokUygulama.sln
       - name: Test
-        run: dotnet test --configuration Release
+        run: dotnet test ./Source/UrunRepositoryTests/UrunRepositoryTests.csproj
       - name: Publish app artifact
         uses: actions/upload-artifact@v3
         with:
