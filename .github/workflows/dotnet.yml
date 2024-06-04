@@ -12,17 +12,16 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: [windows-latest]
 
     steps:
     - uses: actions/checkout@v4
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: 8.0.x
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build working-directory:./Source
-    - name: Test
-      run: dotnet test working-directory:./Source
+
+    - name: setup-msbuild
+      uses: microsoft/setup-msbuild@v2
+    - name : setup-NuGet
+      uses : NuGet/setup-nuget@v2.0.0
+    - name: Restore NuGet Packages
+      run: nuget restore ./Source/stokUygulama.sln
+    - name: Build the Solution
+      run: msbuild ./Source/stokUygulama.sln
