@@ -25,3 +25,10 @@ jobs:
       run: nuget restore ./Source/stokUygulama.sln
     - name: Build the Solution
       run: msbuild ./Source/stokUygulama.sln
+      
+  deploy:
+    needs: build
+    runs-on: [windows-latest] 
+    steps:
+    - name: Deploy to Production
+      run: echo "Production'a başarıyla dağıtıldı!"
