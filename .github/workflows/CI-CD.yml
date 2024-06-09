@@ -29,16 +29,31 @@ jobs:
       run: msbuild ./Source/stokUygulama.sln
       
   deploy:
+    runs-on: windows-latest
     needs: build
-    runs-on: [windows-latest] 
+    environment:
+      name: 'Production'
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+    permissions:
+      id-token: write #This is required for requesting the JWT
+
     steps:
-    - name: Deploy to Production
-      run: echo "Production'a başarıyla dağıtıldı!"
-    - name: Publish
-      run:   dotnet publish ./Source/stokUygulama.sln --configuration Release --no-build --output ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
-    - name: DeploymentwAzure
-      uses: azure/webapps-deploy@v2
-      with:
-        app-name: ${{ env.AZURE_WEBAPP_NAME }}
-        publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE }}
-        package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+      - name: Download artifact from build job
+        uses: actions/download-artifact@v3
+        with:
+          name: .net-app
+      
+      - name: Login to Azure
+        uses: azure/login@v1
+        with:
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_6F40F064D3154DA3BBFCCABB1EF28DD1 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_CB3E873F48C8431BAFB4E6B7179CEB39 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_530EEBD63A5F47649476B84363FA12AE }}
+
+      - name: Deploy to Azure Web App
+        id: deploy-to-webapp
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: 'stokControl'
+          slot-name: 'Production'
+          package: .
