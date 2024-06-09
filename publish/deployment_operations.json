@@ -1,0 +1,19 @@
+[
+  {
+    "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-c401269b-b9b4/operations/DAFD32664941D23C",
+    "operationId": "DAFD32664941D23C",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Running",
+      "timestamp": "2024-06-09T17:26:35.9436307Z",
+      "duration": "PT2.3976924S",
+      "trackingId": "4ee9bf81-3b1d-43a0-b0a6-c15f4c717680",
+      "statusCode": "Created",
+      "targetResource": {
+        "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/DefaultResourceGroup-EUS/providers/Microsoft.Resources/deployments/newWorkspaceTemplate",
+        "resourceType": "Microsoft.Resources/deployments",
+        "resourceName": "newWorkspaceTemplate"
+      }
+    }
+  }
+]

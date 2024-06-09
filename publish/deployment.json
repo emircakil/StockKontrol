@@ -1,0 +1,196 @@
+{
+  "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-c401269b-b9b4",
+  "name": "Microsoft.Web-WebApp-Portal-c401269b-b9b4",
+  "type": "Microsoft.Resources/deployments",
+  "tags": {
+    "primaryResourceId": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourcegroups/stokControl_group/providers/Microsoft.Web/sites/stokControl",
+    "marketplaceItemId": "Microsoft.WebSite",
+    "provisioningHash": "customize-post-provisioning-steps-webapp-deployment"
+  },
+  "properties": {
+    "templateHash": "12513178867312528683",
+    "parameters": {
+      "subscriptionId": {
+        "type": "String",
+        "value": "b8c314bd-2bcb-4bab-940c-2d93ed10c87e"
+      },
+      "resourceGroupName": {
+        "type": "String",
+        "value": "stokControl_group"
+      },
+      "name": {
+        "type": "String",
+        "value": "stokControl"
+      },
+      "location": {
+        "type": "String",
+        "value": "East US"
+      },
+      "hostingPlanName": {
+        "type": "String",
+        "value": "ASP-stokControlgroup-93dd"
+      },
+      "serverFarmResourceGroup": {
+        "type": "String",
+        "value": "stokControl_group"
+      },
+      "alwaysOn": {
+        "type": "Bool",
+        "value": false
+      },
+      "ftpsState": {
+        "type": "String",
+        "value": "FtpsOnly"
+      },
+      "sku": {
+        "type": "String",
+        "value": "Free"
+      },
+      "skuCode": {
+        "type": "String",
+        "value": "F1"
+      },
+      "workerSize": {
+        "type": "String",
+        "value": "0"
+      },
+      "workerSizeId": {
+        "type": "String",
+        "value": "0"
+      },
+      "numberOfWorkers": {
+        "type": "String",
+        "value": "1"
+      },
+      "currentStack": {
+        "type": "String",
+        "value": "dotnet"
+      },
+      "phpVersion": {
+        "type": "String",
+        "value": "OFF"
+      },
+      "netFrameworkVersion": {
+        "type": "String",
+        "value": "v8.0"
+      }
+    },
+    "mode": "Incremental",
+    "debugSetting": {
+      "detailLevel": "None"
+    },
+    "provisioningState": "Running",
+    "timestamp": "2024-06-09T17:26:35.8886223Z",
+    "duration": "PT3.6928603S",
+    "correlationId": "d007109d-b855-404b-bc50-bd1563eae84a",
+    "providers": [
+      {
+        "namespace": "Microsoft.Web",
+        "resourceTypes": [
+          {
+            "resourceType": "sites",
+            "locations": [
+              "eastus"
+            ]
+          },
+          {
+            "resourceType": "sites/basicPublishingCredentialsPolicies",
+            "locations": [
+              null
+            ]
+          },
+          {
+            "resourceType": "serverfarms",
+            "locations": [
+              "eastus"
+            ]
+          }
+        ]
+      },
+      {
+        "namespace": "microsoft.insights",
+        "resourceTypes": [
+          {
+            "resourceType": "components",
+            "locations": [
+              "eastus"
+            ]
+          }
+        ]
+      },
+      {
+        "namespace": "Microsoft.Resources",
+        "resourceTypes": [
+          {
+            "resourceType": "deployments",
+            "locations": [
+              null
+            ]
+          }
+        ]
+      }
+    ],
+    "dependencies": [
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/microsoft.insights/components/stokControl",
+            "resourceType": "microsoft.insights/components",
+            "resourceName": "stokControl"
+          },
+          {
+            "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/Microsoft.Web/serverfarms/ASP-stokControlgroup-93dd",
+            "resourceType": "Microsoft.Web/serverfarms",
+            "resourceName": "ASP-stokControlgroup-93dd"
+          },
+          {
+            "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/microsoft.insights/components/stokControl",
+            "resourceType": "microsoft.insights/components",
+            "resourceName": "stokControl",
+            "apiVersion": "2015-05-01"
+          }
+        ],
+        "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/Microsoft.Web/sites/stokControl",
+        "resourceType": "Microsoft.Web/sites",
+        "resourceName": "stokControl"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/Microsoft.Web/Sites/stokControl",
+            "resourceType": "Microsoft.Web/Sites",
+            "resourceName": "stokControl"
+          }
+        ],
+        "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/Microsoft.Web/sites/stokControl/basicPublishingCredentialsPolicies/scm",
+        "resourceType": "Microsoft.Web/sites/basicPublishingCredentialsPolicies",
+        "resourceName": "stokControl/scm"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/Microsoft.Web/Sites/stokControl",
+            "resourceType": "Microsoft.Web/Sites",
+            "resourceName": "stokControl"
+          }
+        ],
+        "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/Microsoft.Web/sites/stokControl/basicPublishingCredentialsPolicies/ftp",
+        "resourceType": "Microsoft.Web/sites/basicPublishingCredentialsPolicies",
+        "resourceName": "stokControl/ftp"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/DefaultResourceGroup-EUS/providers/Microsoft.Resources/deployments/newWorkspaceTemplate",
+            "resourceType": "Microsoft.Resources/deployments",
+            "resourceName": "newWorkspaceTemplate"
+          }
+        ],
+        "id": "/subscriptions/b8c314bd-2bcb-4bab-940c-2d93ed10c87e/resourceGroups/stokControl_group/providers/microsoft.insights/components/stokControl",
+        "resourceType": "microsoft.insights/components",
+        "resourceName": "stokControl"
+      }
+    ],
+    "validationLevel": "Template"
+  }
+}
