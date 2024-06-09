@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
 env:
   AZURE_WEBAPP_NAME: stokControl
-  AZURE_WEBAPP_PACKAGE_PATH: "./publish"
+  AZURE_WEBAPP_PACKAGE_PATH: "./Source"
 jobs:
   build:
 
@@ -35,7 +35,7 @@ jobs:
     - name: Deploy to Production
       run: echo "Production'a başarıyla dağıtıldı!"
     - name: Publish
-      run:   dotnet publish ./Source/stokUygulama.sln --configuration Release --no-build --output '${{ env.AZURE_WEBAPP_PACKAGE_PATH }}'
+      run:   dotnet publish ./Source/stokUygulama.sln --configuration Release --no-build --output ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
     - name: DeploymentwAzure
       uses: azure/webapps-deploy@v2
       with:
