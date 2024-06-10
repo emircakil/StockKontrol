@@ -37,7 +37,7 @@ This project stands out due to its user-friendly interface, real-time data proce
 - Find your project where you cloned.  
 - Open Sourcer folder or just you can open "InventoryManagementSystem.sln" file.  
  ### How to use project
- - Open filePath.cs file.
+ - Open Form1.cs & UrunRepositoryTests.cs file.
  - Put your database file path in string pathFile= @"C:\Users\...\"your_database";
 ```csharp
 using System;
