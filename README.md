@@ -7,11 +7,10 @@
 ![.NET Badge](https://img.shields.io/badge/.NET-8.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.2.12-purple.svg)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)
-
 ## This is a stock control project for small business
 
 ### Description
-
+###Azure test
 Welcome aboard fellow developer, this is where you will find simple stock control project codes for open to develop from you.
 You can contribute by submitting your own features, also written in C#, which you think would be amazing for other
 people to see.
@@ -33,7 +32,10 @@ This project stands out due to its user-friendly interface, real-time data proce
 ## How to install and run the project
 - Download Visual Studio clicked [here](https://visualstudio.microsoft.com/tr/downloads/)  
 - Install Visual Studio (Don't forget to install Windows Form App in Visual Studio)  
-- Open Visual Studio than select open a local folder.  
+- Open Visual Studio than select open a local folder.
+
+
+ Azure test
 - Find your project where you cloned.  
 - Open Sourcer folder or just you can open "InventoryManagementSystem.sln" file.  
  ### How to use project
