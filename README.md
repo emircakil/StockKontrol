@@ -33,9 +33,6 @@ This project stands out due to its user-friendly interface, real-time data proce
 - Download Visual Studio clicked [here](https://visualstudio.microsoft.com/tr/downloads/)  
 - Install Visual Studio (Don't forget to install Windows Form App in Visual Studio)  
 - Open Visual Studio than select open a local folder.
-
-
- Azure test
 - Find your project where you cloned.  
 - Open Sourcer folder or just you can open "InventoryManagementSystem.sln" file.  
  ### How to use project
